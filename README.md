@@ -32,8 +32,8 @@ Visualization and Analysis
 
 ## PROGRAM
 
-### Developed by: HARISH S
-### Register Number: 212223230071
+### Developed by: RAKSHITHA K
+### Register Number: 212223110039
 
 ```python
 import torch
